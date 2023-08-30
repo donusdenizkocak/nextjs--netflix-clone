@@ -1,0 +1,1 @@
+//kendimizde not found sayfası override edebiliriz yada default not found sayfasıda vardır kullanabiliriz olmayan routlar için
