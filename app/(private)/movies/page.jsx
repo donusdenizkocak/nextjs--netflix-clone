@@ -1,8 +1,10 @@
-import React from 'react'
+import React from "react";
 
- const Movies = () => {
-  return (
-    <div>Movies</div>
-  )
-}
-export default Movies
+export const metadata = {
+  title: "Movies",
+};
+const Movies = () => {
+  return <div>Movies</div>;
+};
+
+export default Movies;
